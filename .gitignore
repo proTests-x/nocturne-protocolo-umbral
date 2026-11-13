@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+game/assets/sounds/generated/
+artifacts/
+*.log

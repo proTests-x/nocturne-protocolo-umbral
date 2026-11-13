@@ -1,0 +1,18 @@
+"""Tunable presentation and player settings; all distances are metres."""
+TITLE = "NOCTURNE | Protocolo Umbral"
+WIDTH, HEIGHT = 1280, 720
+FOV = 88.0
+ADS_FOV = 66.0
+SPRINT_FOV = 98.0
+MOUSE_SENSITIVITY = 0.105
+MAX_HEALTH = 100.0
+WALK_SPEED = 6.2
+SPRINT_SPEED = 9.4
+CROUCH_SPEED = 3.1
+JUMP_SPEED = 7.2
+GRAVITY = 21.0
+PLAYER_RADIUS = 0.34
+STANDING_HEIGHT = 1.72
+CROUCH_HEIGHT = 1.10
+COLOR_CYAN = (0.22, 0.86, 0.92, 1)
+COLOR_RED = (1.0, 0.18, 0.27, 1)
